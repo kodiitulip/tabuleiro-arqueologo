@@ -9,7 +9,7 @@ Casas de armadilhas são casas onde, se o player cair nelas, terá que puxar uma
 
 # Casos Generalizados
 
-Dependendo da armadilha na carta e do resultado do Player ele pode desativar a armadilha _(continuar na casa atual sem efeito negativo)_ ou cair na armadilha _(efeito negativo dependente da carta)_
+Dependendo da armadilha na carta e do resultado do Player ele pode desativar a armadilha _(efeito positivo dependente da carta)_ ou cair na armadilha _(efeito negativo dependente da carta)_
 
 # Casos Especiais
 
