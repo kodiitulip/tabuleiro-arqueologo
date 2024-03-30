@@ -4,9 +4,6 @@ draft: false
 tags:
   - eventos
 ---
-[[index]]
-
----
 # Relíquias
 
 - Quando chegar em um local de escavação, o Jogador escolherá uma entre 5 [[#Cartas de Evento]]  

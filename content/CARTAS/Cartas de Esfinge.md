@@ -4,10 +4,6 @@ draft: false
 tags:
   - cartas
 ---
-[[index]]
-
----
-
 # Cartas de Esfinge
 
 as cartas da Esfinge contem uma pergunta _(relevante com o tema da mídia)_  

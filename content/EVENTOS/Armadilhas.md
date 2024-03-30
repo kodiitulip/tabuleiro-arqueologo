@@ -4,9 +4,6 @@ draft: false
 tags:
   - eventos
 ---
-[[index]]
-
----
 # OOPS... Você Ativou Uma Armadilha! 😅
 
 Casas de armadilhas são casas onde, se o Jogador parar nelas, terá que puxar uma das [[Cartas de Armadilhas]]  

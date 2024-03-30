@@ -4,8 +4,6 @@ draft: false
 tags:
   - cartas
 ---
-[[index]]
-
 # Relíquias
 
 Relíquias são tesouros encontrados nos [[Acampamentos de Escavação]]  

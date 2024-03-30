@@ -4,8 +4,6 @@ draft: false
 tags:
   - reliquias
 ---
-[[index]]
-
 # Besouros Dourados
 
 Os Escaravelhos são relíquias antigas extremamente raras e valiosas.  

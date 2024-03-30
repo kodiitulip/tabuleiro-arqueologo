@@ -1,12 +1,9 @@
 ---
 title: 📖Livro de Regras
-draft: false
-tags:
-  - index
 ---
+# Regras
 
----
-# Movimentação
+## Movimentação
 - Use o dado para mover-se pelo mapa, evitar armadilhas, encontrar tesouros e escapar da Esfinge.
 
 - O Primeiro Jogador com o maior número de relíquias que escapar da Esfinge ganha!
@@ -29,3 +26,6 @@ tags:
 	- [[Cartas de Esfinge]]
 	- [[Cartas de Relíquias]]
 	- [[Cartas de Armadilhas]]
+- Relíquias:
+	- [[Relíquias da Sorte]]
+	- [[Escaravelhos]]

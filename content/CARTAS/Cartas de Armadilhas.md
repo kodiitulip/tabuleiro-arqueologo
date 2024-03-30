@@ -4,9 +4,6 @@ draft: false
 tags:
   - cartas
 ---
-[[index]]
-
----
 # Armadilhas Comuns
 
 1. **Ande em pares** 🤝:  

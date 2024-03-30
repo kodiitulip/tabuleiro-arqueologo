@@ -4,9 +4,6 @@ draft: false
 tags:
   - eventos
 ---
-[[index]]
-
----
 # Perguntas da esfinge
 
 - A Esfinge está sempre a espreita te observando...  E quando ela decide aparecer ela lhe fará uma pergunta!   
