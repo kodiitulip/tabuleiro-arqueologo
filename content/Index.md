@@ -2,6 +2,7 @@
 title: 📖Livro de Regras
 draft: false
 tags:
+  - index
 ---
 
 ---
@@ -18,7 +19,7 @@ tags:
 
 
 
-# Outline
+# Sumário
 
 - Eventos:
 	- [[Armadilhas]]
