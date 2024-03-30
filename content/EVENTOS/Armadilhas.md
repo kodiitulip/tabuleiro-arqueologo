@@ -4,7 +4,7 @@ draft: false
 tags:
   - eventos
 ---
-[[Index]]
+[[index]]
 
 ---
 # OOPS... Você Ativou Uma Armadilha! 😅

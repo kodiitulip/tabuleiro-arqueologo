@@ -4,7 +4,7 @@ draft: false
 tags:
   - cartas
 ---
-[[Index]]
+[[index]]
 
 ---
 
