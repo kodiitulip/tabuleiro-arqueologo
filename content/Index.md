@@ -1,5 +1,5 @@
 ---
-title: Livro de Regras
+title: 📖Livro de Regras
 draft: false
 tags:
 ---

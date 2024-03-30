@@ -4,12 +4,12 @@ draft: false
 tags:
   - cartas
 ---
-[[📖 Livro de Regras]]
+[[Index]]
 
 # Relíquias
 
 Relíquias são tesouros encontrados nos [[Acampamentos de Escavação]]  
-Elas serão contadas para sua pontuação final e algumas [[#Relíquias Especiais]] podem ser trocadas para escapar de armadilhas
+Elas serão contadas para sua pontuação final e algumas [[#Relíquias Especiais]] podem ser trocadas para escapar de armadilhas  
 
 ## Relíquias Especiais
 
@@ -20,8 +20,8 @@ Elas serão contadas para sua pontuação final e algumas [[#Relíquias Especiai
 
 As relíquias comuns tem como uso principal a pontuação do jogador!  
 
-Além de possuir pequenos pedaços de texto com informação que pode vir a ser útil contra [[A Esfinge]]
+Além de possuir pequenos pedaços de texto com informação que pode vir a ser útil contra [[A Esfinge]]  
 
 ## Imagens de Inspiração
-\[inserir aqui imagens exemplo de relíquias comuns]
+\[inserir aqui imagens exemplo de relíquias comuns]  
 \[a ideia de colocar simbolismos do behaviorismo nas relíquias é ótima]

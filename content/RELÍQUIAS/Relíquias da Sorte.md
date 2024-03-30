@@ -4,7 +4,7 @@ draft: false
 tags:
   - reliquias
 ---
-[[📖 Livro de Regras]]
+[[Index]]
 
 ---
 # Amuleto da sorte!
@@ -12,15 +12,14 @@ tags:
 Relíquias de sorte são relíquias valiosas que podem ser encontradas nos [[Acampamentos de Escavação]].  
 
 Assim como os [[Escaravelhos]], relíquias da sorte podem te tirar de emboscadas!  
-
-![[Cartas de Armadilhas#^reliquias-sorte-impacto]]
+[[Cartas de Armadilhas#Como Quebrar Maldições?]]  
 
 
 ## Imagens de Inspiração
 
 
-	![[ULTNICE.jpg|128]]
+![[ULTNICE.jpg]]
 
-	![[ANKH.jpg|128]]
+![[ANKH.jpg]]
 
 

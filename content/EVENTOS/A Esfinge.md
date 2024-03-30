@@ -4,7 +4,7 @@ draft: false
 tags:
   - eventos
 ---
-[[📖 Livro de Regras]]
+[[Index]]
 
 ---
 # Perguntas da esfinge

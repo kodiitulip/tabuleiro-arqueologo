@@ -4,13 +4,14 @@ draft: false
 tags:
   - cartas
 ---
-[[📖 Livro de Regras]]
+[[Index]]
 
 ---
 
 # Cartas de Esfinge
 
-as cartas da Esfinge contem uma pergunta _(relevante com o tema da mídia)_ em que o jogador deve responde-la corretamente caso contrário será punido _veja [[A Esfinge]]_
+as cartas da Esfinge contem uma pergunta _(relevante com o tema da mídia)_  
+em que o jogador deve responde-la corretamente caso contrário será punido _veja [[A Esfinge]]_
 
 
 ## Exemplos de perguntas
