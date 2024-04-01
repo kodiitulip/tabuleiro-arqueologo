@@ -28,6 +28,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.TableOfContents({})),
   ],
   right: [
     Component.Graph({
@@ -38,7 +39,6 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: false,
       }
     }),
-    Component.DesktopOnly(Component.TableOfContents({})),
     Component.Backlinks(),
   ],
 }

@@ -1,7 +1,7 @@
 ---
-title: Casa de Armadilha
+title: "![[trap.png]] Armadilhas"
 draft: false
-tags: []
+tags:
 ---
 # OOPS... Você Ativou Uma Armadilha! 😅
 
@@ -10,8 +10,11 @@ Casas de armadilhas são casas onde, se o Jogador parar nelas, terá que puxar u
 Cada carta de armadilha possui uma pergunta, o Jogador deve responder corretamente a pergunta para desativar a armadilha e adicionar sua pontuação  
 Caso o Jogador erre a pergunta ele receberá o efeito negativo incluso na carta
 
->[!COMENTÁRIO]
+
+
+>[!COMENTARIO]
 >Talvez deveremos ter um baralho separado para as perguntas? assim os outros jogadores que não caíram na armadilha puxam uma carta de pergunta _(que possui a resposta também na carta)_ e perguntam para o jogador que precisa responder
+
 
 # OOPS... Você Ativou Uma Armadilha! 😅
 
