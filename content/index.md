@@ -1,5 +1,6 @@
 ---
 title: 📖Livro de Regras
+disableGraph: true
 ---
 # Regras
 

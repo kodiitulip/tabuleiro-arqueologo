@@ -1,10 +1,7 @@
 ---
 title: Casa de Armadilha
 draft: false
-tags:
-  - eventos
-  - armadilhas
----
+tags: []
 ---
 # OOPS... Você Ativou Uma Armadilha! 😅
 

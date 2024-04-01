@@ -1,8 +1,7 @@
 ---
 title: Relíquias da Sorte
 draft: false
-tags:
-  - reliquias
+tags: []
 ---
 # Amuleto da sorte!
 

@@ -1,8 +1,7 @@
 ---
 title: Escaravelhos
 draft: false
-tags:
-  - reliquias
+tags: []
 ---
 # Besouros Dourados
 

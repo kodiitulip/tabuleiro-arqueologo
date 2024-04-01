@@ -1,8 +1,7 @@
 ---
 title: Cartas de Armadilhas
 draft: false
-tags:
-  - armadilhas
+tags: []
 ---
 # Armadilhas Comuns
 

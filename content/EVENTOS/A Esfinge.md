@@ -1,9 +1,7 @@
 ---
 title: A Esfinge
 draft: false
-tags:
-  - eventos
-  - esfinge
+tags: []
 ---
 # Perguntas da esfinge
 

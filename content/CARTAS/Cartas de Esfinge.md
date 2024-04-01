@@ -1,8 +1,7 @@
 ---
 title: Cartas de Esfinge
 draft: false
-tags:
-  - esfinge
+tags: []
 ---
 # Cartas de Esfinge
 

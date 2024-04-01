@@ -1,9 +1,7 @@
 ---
 title: Casas de Relíquias
 draft: false
-tags:
-  - eventos
-  - "#reliquias"
+tags: []
 ---
 ---
 # Shiny Shiny ✨
