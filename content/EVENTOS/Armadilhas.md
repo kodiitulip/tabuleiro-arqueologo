@@ -1,5 +1,5 @@
 ---
-title: "![[trap.png]] Armadilhas"
+title: Armadilhas
 draft: false
 tags:
 ---
