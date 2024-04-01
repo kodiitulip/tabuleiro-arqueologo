@@ -19,16 +19,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.PageTitle(),
   ],
   left: [
-    Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer()),
+    Component.Graph(),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
