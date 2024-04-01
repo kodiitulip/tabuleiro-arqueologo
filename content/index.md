@@ -19,7 +19,6 @@ Exemplo:
 | Jogador 1 | 3                           | 5                             | 4                          | 25    |
 | Jogador 2 | 2                           | 7                             | 6                          | 34    |
 | Jogador 3 | 5                           | 6                             | 7                          | 37    |
-| ...       | ![[trap.png]]               | ![[great-sphinx-of-giza.png]] | 🏆                         | ✒     |
 
 $$
 Total = Armadilhas * 1 + Esfinge * 2 + Reliquias * 3
@@ -37,8 +36,3 @@ Durante o mapa você encontrara alguns espaços com eventos especiais atrelados 
 - [[Armadilhas]]
 - [[Casas de Relíquias]]
 - [[A Esfinge]]
-
-
-
-<br>
-<a href="https://www.flaticon.com/free-icons/giza" title="giza icons">Giza icons created by Freepik - Flaticon</a><br><a href="https://www.flaticon.com/free-icons/trap" title="trap icons">Trap icons created by Freepik - Flaticon</a><br>
