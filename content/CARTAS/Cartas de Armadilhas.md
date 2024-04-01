@@ -3,6 +3,7 @@ title: Cartas de Armadilhas
 draft: false
 tags: []
 ---
+
 # Armadilhas Comuns
 
 1. **Cuidado onde Pisa** :  

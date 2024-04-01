@@ -5,6 +5,7 @@ tags:
 ---
 ![Relíquia | center](vase-256pxi.png)
 
+
 # Shiny Shiny ✨
 
 Quando o Jogador encontra uma casa de relíquias ele poderá retirar uma carta do baralho de Relíquias  

@@ -3,6 +3,7 @@ title: Cartas de Perguntas
 draft: false
 tags:
 ---
->[!WIP]
+
+>[!TODO]
 >Vou deixar esse documento vazio para a gente discutir melhor
 

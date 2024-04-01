@@ -5,6 +5,7 @@ tags:
 ---
 ![Armadilha | center](trap-256pxi.png)
 
+
 # OOPS... Você Ativou Uma Armadilha! 😅
 
 Caso um Jogador caia em uma Armadilha, ele deve responder uma pergunta.  
