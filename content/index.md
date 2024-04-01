@@ -30,7 +30,7 @@ _Lembrando que a pontuação depende do número de perguntas respondidas correta
 ---
 # Mapa
 - Imagem de Inspiração para o mapa do tabuleiro:
-  ![[MAPA-INSPIRACAO.jpg]]
+  ![[mapa-inspo.jpg]]
 ## Casas de Eventos
 Durante o mapa você encontrara alguns espaços com eventos especiais atrelados a eles:
 - [[Armadilhas]]
