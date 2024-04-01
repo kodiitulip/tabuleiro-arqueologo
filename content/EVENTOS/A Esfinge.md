@@ -3,7 +3,7 @@ title: A Esfinge
 draft: false
 tags: []
 ---
-![Esfinge | center](sphinx-256px.png)
+![Esfinge | center](sphinx-256pxi.png)
 # Perguntas da esfinge
 
 - A Esfinge está sempre a espreita te observando...  E quando ela decide aparecer ela lhe fará uma pergunta!   
@@ -23,6 +23,7 @@ tags: []
 >[!TODO]
 >\[insira aqui mais exemplos] ...
 >\[algumas cartas pode conter limites como, limite de tempo ou role um numero no dado]
+
 
 ---
 

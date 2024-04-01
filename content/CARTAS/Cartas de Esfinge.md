@@ -16,3 +16,5 @@ O jogador deve responde-las corretamente para receber recompensas
 
 > [!RESALVA]
 > Essas recompensas são apenas sugestões e podemos discuti-las depois
+
+

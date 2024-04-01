@@ -3,7 +3,7 @@ title: Armadilhas
 draft: false
 tags:
 ---
-![Armadilha | center](trap-256px.png)
+![Armadilha | center](trap-256pxi.png)
 
 # OOPS... Você Ativou Uma Armadilha! 😅
 
@@ -13,6 +13,7 @@ Caso contrário o Jogador deverá puxar uma [[Cartas de Armadilhas|Carta de Arma
 
 >[!COMENTARIO]
 >Talvez deveremos ter um baralho separado para as perguntas? assim os outros jogadores que não caíram na armadilha puxam uma carta de pergunta _(que possui a resposta também na carta)_ e perguntam para o jogador que precisa responder
+
 
 ---
 

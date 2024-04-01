@@ -10,3 +10,5 @@ Os pergaminhos - _além de contarem para a pontuação do Jogador!_ - Possuem pe
 
 >[!TODO]
 >\[inserir aqui as dicas escritas nos pergaminhos]
+
+

@@ -9,9 +9,8 @@ Relíquias de sorte são relíquias valiosas que podem ser encontradas nos Casas
 
 Assim como os Escaravelhos, Relíquias da Sorte podem lhe ajudar a quebrar maldições!  
 
-
 ## Imagens de Inspiração
-![[ultnice.jpg | Ultinice]]
-![[ankh.jpg | Ankh]]
+![[ultnice-ref.jpg| Ultinice]]
+![[ankh-ref.jpg| Ankh]]
 
 

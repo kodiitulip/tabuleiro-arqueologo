@@ -59,3 +59,4 @@ tags: []
 	- Maldições de alto impacto podem ser quebradas imediatamente usando:
 		- Escaravelhos
 
+
